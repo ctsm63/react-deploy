@@ -1,1 +1,1 @@
-[![École du Web - React : Mise en ligne gratuite sur GitHub](https://img.youtube.com/vi/v=ziPzOp6j0Oo/0.jpg)](https://www.youtube.com/watch?v=v=ziPzOp6j0Oo)
+[École du Web - React : Mise en ligne gratuite sur GitHub](https://youtu.be/ziPzOp6j0Oo?si=Fj-DDag4M48WLm9v)
